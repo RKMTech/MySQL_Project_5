@@ -8,10 +8,15 @@ This is one of my projects to showcase my progress in **SQL** and my improvement
 ### The modeling of a flight booking system:
 
 1. Utilizing mysql built-in EER diagram.
-2. Start with the basic tables like passenger,ticket & flight.
-3. Normalizing the database by creating relationship between the tables
-4. Creating seperate tables for data which I think will be redundant like airport
-5. Reverse eigneering the model to create the database
+2. Start with the basic tables like passengers, tickets & flights.
+3. Add columns that align with the created tables.
+4. Normalizing the database by creating relationship between the tables.
+5. Creating seperate tables for data which I think will be redundant like airport.
+6. Forward eigneering the model to create the database.
+
+# The ERR Diagram
+
+![Screenshot](https://github.com/user-attachments/assets/5ff7eb1c-8ded-4901-9b07-069716782406)
 
 # Tools I Used
 - SQL
@@ -21,9 +26,6 @@ This is one of my projects to showcase my progress in **SQL** and my improvement
 - Visual Studio Code
 
 - Git & Github
-# The ERR Diagram
-
-![Screenshot](https://github.com/user-attachments/assets/5ff7eb1c-8ded-4901-9b07-069716782406)
 
 # Conclusion
 
