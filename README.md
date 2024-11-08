@@ -3,7 +3,7 @@
  
 
 # Background
-This is one of my projects to showcase my progress in **SQL** and my improvement to modeling a database. I will be creating a database for a flight booking system.
+This is one of my projects to showcase my progress in **SQL** and my improvement to modeling a database. I will be creating a database for a flight booking system. As I'm learning, I stumble upon amazing lecturers who give us projects such as these to helps us understand more about the topics we are learning.
 
 ### The modeling of a flight booking system:
 
